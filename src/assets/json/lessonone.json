@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "img": "lesson-icon-01.svg",
+    "title": "Class",
+    "name": "Electrical Engg"
+  },
+  {
+    "id": "2",
+    "img": "lesson-icon-02.svg",
+    "title": "Lessons",
+    "name": "5 Lessons"
+  },
+  {
+    "id": "3",
+    "img": "lesson-icon-03.svg",
+    "title": "Time",
+    "name": "Lessons"
+  }
+]

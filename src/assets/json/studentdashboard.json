@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "All Courses",
+    "mark": "04/06",
+    "img": "teacher-icon-01.svg"
+  },
+  {
+    "id": "2",
+    "title": "All Projects",
+    "mark": "40/60",
+    "img": "teacher-icon-02.svg"
+  },
+  {
+    "id": "3",
+    "title": "Test Attended",
+    "mark": "30/50",
+    "img": "student-icon-01.svg"
+  },
+  {
+    "id": "4",
+    "title": "Test Passed",
+    "mark": "15/20",
+    "img": "student-icon-02.svg"
+  }
+]

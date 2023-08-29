@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "time": "08:00 am",
+    "subject": "Botony",
+    "content": "Lorem ipsum sit amet",
+    "timing": "08:00 - 09:00 am"
+  },
+  {
+    "id": "2",
+    "time": "09:00 am",
+    "subject": "Botony",
+    "content": "Lorem ipsum sit amet",
+    "timing": "09:00 - 10:00 am"
+  },
+  {
+    "id": "3",
+    "time": "10:00 am",
+    "subject": "Botony",
+    "content": "Lorem ipsum sit amet",
+    "timing": "10:00 - 11:00 am"
+  }
+]

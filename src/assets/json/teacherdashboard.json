@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Total Classes",
+    "mark": "04/06",
+    "img": "teacher-icon-01.svg"
+  },
+  {
+    "id": "2",
+    "title": "Total Students",
+    "mark": "40/60",
+    "img": "dash-icon-01.svg"
+  },
+  {
+    "id": "3",
+    "title": "Total Lessons",
+    "mark": "30/50",
+    "img": "teacher-icon-02.svg"
+  },
+  {
+    "id": "4",
+    "title": "Total Hours",
+    "mark": "15/20",
+    "img": "teacher-icon-03.svg"
+  }
+]
